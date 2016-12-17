@@ -2,6 +2,7 @@ import org.junit.runner.JUnitCore;
 import org.junit.runner.Result; 
 import org.junit.runner.notification.Failure;  
 public class calcTest {    
+	/*
 		public static void main(String[] args)  {       
 				Result result = JUnitCore.runClasses(TestJUnit.class); 		       
 				for (Failure failure : result.getFailures()) {          
@@ -9,4 +10,5 @@ public class calcTest {
 				} 		       
 				System.out.println(result.wasSuccessful());    
 		} 
+		*/
 }
