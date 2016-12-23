@@ -3,4 +3,4 @@
 # this script only works if you have your dependencies set up the same way
 # as below. If this is not the case, please consult ../../README.txt
 
-java -cp "/selenium/selenium-server-standalone-3.0.1.jar;/selenium/client-combined-3.0.1-nodeps.jar;/JUNIT/junit-4.12.jar;/JUNIT/hamcrest-core-1.3.jar;.;" VidMeFollow
+java -cp "/selenium/selenium-server-standalone-3.0.1.jar;/selenium/client-combined-3.0.1-nodeps.jar;/JUNIT/junit-4.12.jar;/JUNIT/hamcrest-core-1.3.jar;.;" TwitterFollow
